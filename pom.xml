@@ -102,11 +102,11 @@
 	    </repository>
 		
 	
-	    <ReleaseRepository>
+	    <releaseRepository>
 	      <id>nexus</id>
-	      <name>Snapdeal1.10.2</name>
+	      <name>1.10.2</name>
 	      <url>http://13.232.113.121:8081/repository/Snapdeal-Release/</url>
-	    </ReleseRepository>
+	    </releseRepository>
 	
 	</distributionManagement>
 	
